@@ -1,9 +1,9 @@
 <template>
-  <main id="main-content" class="pt-28 md:pt-32">
+  <main id="main-content" class="pt-6 md:pt-32">
     <main-section></main-section>
-    <service-section></service-section>
-    <about-section></about-section>
     <contact-section></contact-section>
+    <about-section></about-section>
+    <service-section></service-section>
   </main>
 </template>
 

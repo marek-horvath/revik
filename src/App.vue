@@ -1,6 +1,6 @@
 <template>
   <a href="#main-content" class="sr-only focus:not-sr-only focus:absolute focus:top-2 focus:left-2 focus:bg-white focus:px-3 focus:py-2 focus:rounded focus:z-[1001]">
-    Preskocit na obsah
+    Preskočiť na obsah
   </a>
   <navbar-element></navbar-element>
   <home-view></home-view>

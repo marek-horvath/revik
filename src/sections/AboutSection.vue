@@ -1,30 +1,30 @@
 <template>
-  <section id="about-section" class="px-6 md:px-12 lg:px-32 py-20 relative">
+  <section id="about-section" class="px-6 md:px-12 lg:px-32 py-10 md:py-20 relative">
     <div class="about-fade about-fade-left" aria-hidden="true"></div>
     <div class="about-fade about-fade-right" aria-hidden="true"></div>
 
     <div class="rounded-3xl border border-stone-200 bg-white/90 backdrop-blur-sm shadow-xl p-6 md:p-10 onas-shell">
       <div class="flex gap-6 flex-col md:flex-row md:items-end md:justify-between mb-6">
         <div>
-          <h2 class="uppercase text-4xl md:text-5xl font-semibold">O NAS</h2>
+          <h2 class="uppercase text-4xl md:text-5xl font-semibold">O NÁS</h2>
         </div>
       </div>
 
       <div class="flex items-center gap-8 onas-section">
-      <div class="w-2/3 pl-0 md:pl-2">
-      <p class="text-stone-600 mb-2 onas-text leading-relaxed text-lg">
-        Sme špecialisti na pranie kobercov a cistenie gaucoviek s dlhoročnými skúsenosťami.
-        Naše služby sú dostupné pre domácnosti aj komerčné priestory.
-        Pranie kobercov a cistenie gaucoviek robíme s láskou a profesionálnym prístupom.
-        Sme z Košíc a vždy sa snažíme poskytnúť najlepšie služby našim zákazníkom.
-        Každú zákazku riešime individuálne, s dôrazom na čistotu, rýchlosť a bezpečné čistiace prostriedky.
-        Pre viac informácií nás neváhajte kontaktovať.
-      </p>
-      </div>
+        <div class="w-2/3 pl-0 md:pl-2">
+          <p class="text-stone-600 mb-2 onas-text leading-relaxed text-lg">
+            Sme špecialisti na pranie kobercov a čistenie gaučoviek s dlhoročnými skúsenosťami.
+            Naše služby sú dostupné pre domácnosti aj komerčné priestory.
+            Pranie kobercov a čistenie gaučoviek robíme s láskou a profesionálnym prístupom.
+            Sme z Košíc a vždy sa snažíme poskytnúť najlepšie služby našim zákazníkom.
+            Každú zákazku riešime individuálne, s dôrazom na čistotu, rýchlosť a bezpečné čistiace prostriedky.
+            Pre viac informácií nás neváhajte kontaktovať.
+          </p>
+        </div>
 
-      <div class="w-1/3">
-        <img class="w-full h-auto rounded-2xl about-image" src="@/assets/3.jpg" alt="Revik pranie kobercov a cistenie gaucoviek" />
-      </div>
+        <div class="w-1/3">
+          <img class="w-full h-auto rounded-2xl about-image" src="@/assets/3.jpg" alt="Revik pranie kobercov a čistenie gaučoviek" />
+        </div>
       </div>
     </div>
   </section>

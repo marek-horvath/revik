@@ -51,5 +51,5 @@ npm run lint
 
 ## Notes
 
-- Coordinates currently point to Kosice area (`48.709010, 21.204130`).
+- Coordinates currently point to Košice area (`48.709010, 21.204130`).
 - Update contact details before publishing if phone/address changes.
